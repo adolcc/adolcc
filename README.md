@@ -14,7 +14,11 @@
     <a href="https://www.linkedin.com/in/adolfo-caicaguare/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    &nbsp;&nbsp;&nbsp; 
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://profile.indeed.com/?hl=es_ES&co=ES&from=gnav-jobseeker-profile--profile-one-frontend" target="_blank">
+        <img src="https://img.shields.io/badge/Indeed-0073B1?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed Badge"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="mailto:caicaguareadolfo@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
