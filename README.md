@@ -60,9 +60,10 @@
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<h3 align="center">📚 Focus and Learning</h3>
+### 🌿 Commitment to Growth
 
-* **🎓 Intensive Training:** Graduated from the **Java Spring Framework Bootcamp** at IT Academy Barcelona Activa, including **Integration Testing** practices.
-* **✨ Recent Coursework:** Fundamentals of Programming (Java II) – Focusing on OOP and Design Patterns.
-* **📂 Knowledge Base:** My **[notes repository](https://github.com/adolcc/notes)** serves as my active documentation and knowledge base.
-* **🚀 Next Goal:** Mastering **Reactive Programming** (WebFlux) and cloud deployment on Render.
+* ** Bootcamp & Certs:** Graduated from the Java Spring Framework Bootcamp at IT Academy Barcelona Activa, including Integration Testing practices.
+* **📚 Recent Coursework:** Fundamentals of Programming (Java II) — Focusing on OOP and Design Patterns.
+* **⚙️ Practical Skills:** Hands-on experience with **Spring WebFlux** and **CI/CD deployment** using GitHub Actions and Render.
+* **🧠 Knowledge Base:** My [notes repository] serves as my active documentation and knowledge base.
+* **🔭 Next Horizon:** Exploring **Event-Driven Architectures** and implementation patterns (e.g., Kafka/RabbitMQ) for robust microservices.
