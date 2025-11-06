@@ -62,8 +62,8 @@
 
 ### 🌿 Commitment to Growth
 
-* ** Bootcamp & Certs:** Graduated from the Java Spring Framework Bootcamp at IT Academy Barcelona Activa, including Integration Testing practices.
+* **✨ Bootcamp & Certs:** Graduated from the Java Spring Framework Bootcamp at IT Academy Barcelona Activa, including Integration Testing practices.
 * **📚 Recent Coursework:** Fundamentals of Programming (Java II) — Focusing on OOP and Design Patterns.
 * **⚙️ Practical Skills:** Hands-on experience with **Spring WebFlux** and **CI/CD deployment** using GitHub Actions and Render.
-* **🧠 Knowledge Base:** My [notes repository] serves as my active documentation and knowledge base.
+* **🧠 Knowledge Base:** My [notes repository](https://github.com/adolcc/notes) serves as my active documentation and knowledge base.
 * **🔭 Next Horizon:** Exploring **Event-Driven Architectures** and implementation patterns (e.g., Kafka/RabbitMQ) for robust microservices.
